@@ -5,7 +5,8 @@ An online retail store has hired us as a consultant to review their data and pro
 Tools used- Tableau , MS Office
 
 
-#Tasks
+# Tasks
+
 Task 1 - Framing the Business Scenario
 
 Learned how to anticipate the questions, the business leaders will need answers to.
@@ -24,8 +25,9 @@ We would need to provide insights which they can use to create the expansion str
 
 We would need to make sure that the data we are using is of good quality and does not contain any bad data that would have an adverse impact on our analysis. Once the data is cleaned, the next step would be to create the visuals on Tableau.
 
-Sales analysis
 
 Task 4 - Communicating Insights and Analysis
 
 Effectively communicating the findings and explain how it relates to each scenario in a business friendly language.
+
+![image](https://github.com/surlaadithyanaidu/Tata_Data_Visualisation_Internship/assets/118123365/ce827f18-24e3-490f-b240-252f73d40898)
